@@ -19,7 +19,7 @@
    enable-background="new 0 0 120 23"
    xml:space="preserve"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sodai.svg"><metadata
+   sodipodi:docname="moenai.svg"><metadata
    id="metadata3017"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -62,13 +62,13 @@
 <text
    xml:space="preserve"
    style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
-   x="21.515963"
+   x="9.5159626"
    y="18.944387"
    id="text3027"
    sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
      id="tspan3029"
-     x="21.515963"
+     x="9.5159626"
      y="18.944387"
-     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f9f9f9;font-family:'Rounded-X M+ 1c heavy';-inkscape-font-specification:'Rounded-X M+ 1c heavy'">資源ごみ</tspan></text>
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f9f9f9;font-family:'Rounded-X M+ 1c heavy';-inkscape-font-specification:'Rounded-X M+ 1c heavy'">燃えるごみ</tspan></text>
 </svg>
