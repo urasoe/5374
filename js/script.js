@@ -364,7 +364,6 @@ $(function() {
         var selected_name = getSelectedAreaName();
         var area_select_form = $("#select_area");
         var select_html = "";
-        select_html += '<optgroup class="form-control" label="">';	//セレクトボックス内の表示切れ対応
         select_html += '<option value="-1">地域を選択してください</option>';
         for (var row_index in areaModels) {
           var area_name = areaModels[row_index].label;
@@ -372,7 +371,6 @@ $(function() {
 
           select_html += '<option value="' + row_index + '" ' + selected + " >" + area_name + "</option>";
         }
-        select_html += '</optgroup>';	//セレクトボックス内の表示切れ対応
 
         //デバッグ用
         if (typeof dump == "function") {
